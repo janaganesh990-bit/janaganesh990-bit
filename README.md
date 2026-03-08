@@ -1,5 +1,13 @@
-## Hi there 👋
-
+## Hi there 👋 I'm Janaganesh
+🚀Currently Working On
+  -Creating and Working in Startup Projects
+  -Improving DSA and Logical thinking 
+  -Learning New Technologies 
+🧠Interests
+  -Gen AI / ML
+  -Automation tools
+📩Connect With Me
+  -janaganesh990@gmail.com
 <!--
 **janaganesh990-bit/janaganesh990-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
